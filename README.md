@@ -45,4 +45,4 @@ I enjoy solving problems, writing clean code, and continuously learning new tech
 
 ---
 
-⭐️ *Most of my work is with private, client-owned repositories — but I’m always open to sharing my knowledge and discussing .NET development.*
+⭐️ *Most of my work is with private, client-owned repositories, but I’m always open to sharing my knowledge and discussing .NET development.*
