@@ -37,6 +37,7 @@ I enjoy solving problems, writing clean code, and continuously learning new tech
 
 * Advanced **.NET Core features**
 * Best practices for **scalable backend systems**
+* Azure
 
 ---
 
