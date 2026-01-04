@@ -20,6 +20,7 @@ I enjoy solving problems, writing clean code, and continuously learning new tech
 
   * RESTful APIs
   * Entity Framework (basic usage)
+  * Blazor
 
 ---
 
